@@ -1,10 +1,6 @@
 # 基于SSM的订餐管理系统
 
-## 获取方式
 
-扫描下方，回复关键词：  **订餐6**
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -70,11 +66,4 @@
 - 公告管理：管理员可以增加、删除和修改公告信息
 - 类别管理：管理员可以增加、删除和修改类别信息
 
-## 5、获取方式
-
-扫描下方，回复关键词  ：**订餐6**
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
